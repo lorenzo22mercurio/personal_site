@@ -1,7 +1,5 @@
 ﻿# personal_site
 
-Hi, I'm LOLLO
-
 Hi! I'm Lollo, a high school student who likes programming and wants to learn more about it.
 
 This is my personal website, where I introduce myself and share a little bit about my coding journey.
